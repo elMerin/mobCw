@@ -1,0 +1,9 @@
+<!--Name: Merin Haslacher
+    Matriculation Number: S1624420-->
+<resources>
+    <string name="app_name">cw</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="google_maps_key">AIzaSyC2D2s-7c8SWLxcndvQwG_-3B1IqU1QBNk</string>
+    <string name="title_activity_maps">mapsActivity</string>
+</resources>
